@@ -1,0 +1,18 @@
+[
+    {
+        "name":"ronak",
+        "age": 20,
+        "city": "Ahmedabad"
+
+    },
+    {
+        "name1":"ronak1",
+        "age1": 22,
+        "city1": "Ahmedabad1"
+    },
+    {
+        "name2":"ronak2",
+        "age2": 21,
+        "city2": "Ahmedabad2"
+    }
+]
